@@ -1,20 +1,20 @@
-## Hi! I'm Diego!
+# Hi! I'm Diego!
 
-#### I'm a software engineer interested in all things AI! I'm currently doing work in the finetuning product of Microsoft's Azure Open AI service and spend some time on personal projects.
+### I'm a software engineer interested in all things AI! I'm currently doing work in the finetuning product of Microsoft's Azure Open AI service and spend some time on personal projects.
 
-#### Reach out to me if you would like to collaborate on a project!
+### Reach out to me if you would like to collaborate on a project!
 
-### Contact Info
-##### Email: diegoalejandroraygoza@gmail.com
-##### LinkedIn: [Link](https://www.linkedin.com/in/diego-rc/)
+## Contact Info
+#### Email: diegoalejandroraygoza@gmail.com
+#### LinkedIn: [Link](https://www.linkedin.com/in/diego-rc/)
 
 
-### Skills
-##### Programming Languages: Python, Kusto, C++, SQL
-##### Libraries: Azure OpenAI, OpenAI, PyTorch, Tensorflow, Keras, NumPy, Scikit-Learn, Pandas
-##### Programming Environments: Jupyter, Conda, Arduino
-##### Other: Azure DevOps, Git, Scrum, Bash, Unix, AzureML, Google Cloud Platform (Vertex AI), Amazon Web Services (SageMaker), Blender, Meshlab
-##### Languages: English, Spanish, Portuguese
+## Skills
+#### Programming Languages: Python, Kusto, C++, SQL
+#### Libraries: Azure OpenAI, OpenAI, PyTorch, Tensorflow, Keras, NumPy, Scikit-Learn, Pandas
+#### Programming Environments: Jupyter, Conda, Arduino
+#### Other: Azure DevOps, Git, Scrum, Bash, Unix, AzureML, Google Cloud Platform (Vertex AI), Amazon Web Services (SageMaker), Blender, Meshlab
+#### Languages: English, Spanish, Portuguese
 
 
 <!--
