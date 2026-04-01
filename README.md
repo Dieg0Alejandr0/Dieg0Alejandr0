@@ -6,7 +6,7 @@
 
 ## Contact Info
 #### Email: diegoalejandroraygoza@gmail.com
-#### LinkedIn: [Link](https://www.linkedin.com/in/diego-rc/)
+#### LinkedIn: [Profile](https://www.linkedin.com/in/diego-rc/)
 
 
 ## Skills
