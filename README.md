@@ -5,16 +5,16 @@
 #### Reach out to me if you would like to collaborate on a project!
 
 ### Contact Info
-#### Email: diegoalejandroraygoza@gmail.com
-#### LinkedIn: [Link](https://www.linkedin.com/in/diego-rc/)
+##### Email: diegoalejandroraygoza@gmail.com
+##### LinkedIn: [Link](https://www.linkedin.com/in/diego-rc/)
 
 
 ### Skills
-#### Programming Languages: Python, Kusto, C++, SQL
-#### Libraries: Azure OpenAI, OpenAI, PyTorch, Tensorflow, Keras, NumPy, Scikit-Learn, Pandas
-#### Programming Environments: Jupyter, Conda, Arduino
-#### Other: Azure DevOps, Git, Scrum, Bash, Unix, AzureML, Google Cloud Platform (Vertex AI), Amazon Web Services (SageMaker), Blender, Meshlab
-#### Languages: English, Spanish, Portuguese
+##### Programming Languages: Python, Kusto, C++, SQL
+##### Libraries: Azure OpenAI, OpenAI, PyTorch, Tensorflow, Keras, NumPy, Scikit-Learn, Pandas
+##### Programming Environments: Jupyter, Conda, Arduino
+##### Other: Azure DevOps, Git, Scrum, Bash, Unix, AzureML, Google Cloud Platform (Vertex AI), Amazon Web Services (SageMaker), Blender, Meshlab
+##### Languages: English, Spanish, Portuguese
 
 
 <!--
