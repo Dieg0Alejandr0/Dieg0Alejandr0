@@ -8,7 +8,7 @@
 
 
 ## Skills
-#### Programming Languages: Python, Kusto, C++, SQL
+#### Programming Languages: Python, Kusto, SQL, C++
 #### Libraries: Azure OpenAI, OpenAI, PyTorch, Tensorflow, Keras, NumPy, Scikit-Learn, Pandas
 #### Programming Environments: Jupyter, Conda, Arduino
 #### Other: Azure DevOps, Git, Scrum, Bash, Unix, AzureML, Google Cloud Platform (Vertex AI), Amazon Web Services (SageMaker), Blender, Meshlab
