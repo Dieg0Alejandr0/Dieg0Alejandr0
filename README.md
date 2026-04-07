@@ -1,8 +1,6 @@
 # Hi! I'm Diego!
 
-### I'm a software engineer interested in all things AI! I'm currently doing work in the finetuning product of Microsoft's Azure Open AI service and spend some time on personal projects.
-
-### Reach out to me if you would like to collaborate on a project!
+### I'm a software engineer interested in all things AI! I'm currently doing work in the finetuning product of Microsoft's Azure Open AI service. Reach out to me if you would like to learn more about my work or collaborate on a project!
 
 ## Contact Info
 #### Email: diegoalejandroraygoza@gmail.com
