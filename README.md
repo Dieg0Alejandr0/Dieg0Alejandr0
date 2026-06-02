@@ -10,7 +10,7 @@ Currently at **Microsoft Azure OpenAI** — building the infrastructure that mak
 
 ## About Me
 
-I build production systems that make large language models reliable, aligned, and deployable at scale. At Microsoft, I've owned end-to-end model onboarding, LLM evaluation infrastructure, and Direct Preference Optimization (DPO) alignment workflows for Azure OpenAI on GPT and o-series models across 230k+ organizations — on a platform processing **100T+ tokens/quarter** for 65% of the Fortune 500.
+I build production systems that make large language models reliable, aligned, and deployable at scale. At Microsoft, I've owned end-to-end model onboarding, LLM evaluation infrastructure, and alignment workflows for Azure OpenAI on GPT and o-series models across 230k+ organizations — on a platform processing **100T+ tokens/quarter** for 65% of the Fortune 500.
 
 I am MIT-trained in Electrical Engineering, Computer Science, and Mathematics, with research experience in generative models, computer vision, and computational biology. I'm passionate about the intersection of AI alignment, evaluation, and frontier model development.
 
@@ -46,24 +46,11 @@ I am MIT-trained in Electrical Engineering, Computer Science, and Mathematics, w
 ### Microsoft — Azure OpenAI & AzureML NLP
 **Software Engineer** | Aug 2022 – Present | Redmond, WA
 
-- Owned end-to-end onboarding of GPT and reasoning models into Azure OpenAI for 230k+ organizations
-- Led DPO alignment task onboarding for GPT-4.1 and 4.1-mini, directly contributing to production model alignment quality
-- Drove 2x increase in model-onboarding throughput and >70% reduction in development cycle time
-- Shipped CI/CD automation for large-scale model evaluation and deployment pipelines
-- Led GA launches of Python-based graders, string-evaluation, and semantic-similarity tooling
-- Built AzureML components powering Microsoft Build demos, contributing to the public launch of Promptflow
-
 ### Palo Alto Networks
 **ML Software Engineer Intern — Forecasting** | June 2021 – Aug 2021 | Santa Clara, CA
 
-- Built a TimeGAN synthetic time-series data generator to support anomaly detection on imbalanced security telemetry
-- Shipped a production API for synthetic time-series generation used by the ML team
-
 ### MIT — Undergraduate Researcher
 **AI for Computational Biology & Computer Vision** | Jan 2019 – June 2022 | Cambridge, MA
-
-- Trained PyTorch models to predict protein-ligand binding regions (EquiBind, PDBBind, SBDD-3D) — Bombarelli Lab
-- Probed StyleGAN/ProgressiveGAN latent spaces and generated paired 2D/3D datasets for scene understanding — Torralba Lab
 
 ---
 
@@ -74,14 +61,36 @@ B.S. Electrical Engineering & Computer Science, Mathematics | 2018 – 2022
 Minor in Statistics & Data Science, Philosophy | GPA: 4.8/5.0
 
 ---
-<!--
-## 📌 Pinned Projects
 
-> *(Coming soon — adding public demos and notebooks covering LLM evaluation, DPO workflows, and ML research reproductions)*
+## 📌 Notable Projects
+
+**[o4 Reasoning Model & Reinforcement Finetuning](https://azure.microsoft.com/en-us/blog/announcing-new-fine-tuning-models-and-techniques-in-azure-ai-foundry/)**  
+I led the onboarding of the o4 reasoning model as well as string check, text similarity graders for private preview. I later led the onboarding of Python code graders for general access.
+
+**[GPT-4.1 Series Models](https://azure.microsoft.com/en-us/blog/announcing-the-gpt-4-1-model-series-for-azure-ai-foundry-developers/)**  
+I onboarded the DPO functionalities for GPT-4.1 models for private preview.
+
+**[Multimodal AI on Azure OpenAI](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/announcing-multimodal-innovations-in-generative-ai-with-azure-openai-service-mic/4146804)**  
+Announced and demoed at Microsoft Build 2024. I was responsible for building an automated CI/CD suite to testing product funcionality, including the upcoming GPT-4, GPT-4o, GPT-4 Turbo models and new vision capabilities, prior to Build 2024.
+
+**[Promptflow](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/evaluating-large-and-small-language-models-on-custom-data-using-azure-prompt-flo/4150111)**  
+Announced and demoed at Microsoft Build 2023. I conducted the A/B testing of prompts needed for LLM based evaluation metrics **Groundedness**, **Relevance**, **Coherence**, **Fluency**, which were presented at Build 2023.
+
+**[Equibind](https://github.com/Dieg0Alejandr0/EquiBind)**  
+A project I did some work on top of in the Jaakkola lab. I trained PyTorch models to predict protein-ligand binding regions (EquiBind, PDBBind, SBDD-3D).
+
+**[GAN Scene Understanding](https://github.com/Dieg0Alejandr0/Torralba-Lab-2020-2021)**  
+A project I led when in the Torralba lab. Where I probed StyleGAN/ProgressiveGAN latent spaces and generated paired 2D/3D datasets for scene-understanding research.
+
+**[Flapping Plate Optimization](https://github.com/Dieg0Alejandr0/Van-Rees-Lab-Fall-2019)**
+A project I contributed to in the Van Rees lab. The repo contains an implementation of Euler coordinates and Lagrangian coordinates for the deformation of a flexible plate for MRAG-I2D.
+
+**[Neural ODEs for NEB](https://github.com/Dieg0Alejandr0/Bombarelli-Lab-Summer-2020)**  
+A project I led during my time in the Bombarelli Lab. I implemented the Nudged Elast Band method for finding minimum-energy paths, both done traditionally and through differentiable ODE solvers.
 
 ---
 
-
+<!--
 
 **Dieg0Alejandr0/Dieg0Alejandr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
