@@ -1,7 +1,7 @@
 # Hi, I'm Diego 👋
 
-**AI/ML Engineer** focused on LLM evaluation, alignment, and production ML systems.  
-Currently at **Microsoft Azure OpenAI** — building the infrastructure that makes frontier models reliable and deployable at scale.
+#### **AI/ML Engineer** focused on LLM evaluation, alignment, and production ML systems.  
+#### Currently at **Microsoft Azure OpenAI** — building the infrastructure that makes frontier models reliable and deployable at scale.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--rc-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/diego-rc)
 [![Email](https://img.shields.io/badge/Email-diegoalejandroraygoza@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:diegoalejandroraygoza@gmail.com)
