@@ -86,7 +86,7 @@ A project I led when in the Torralba lab. Where I probed StyleGAN/ProgressiveGAN
 A project I contributed to in the Van Rees lab. The repo contains an implementation of Euler coordinates and Lagrangian coordinates for the deformation of a flexible plate for MRAG-I2D.
 
 **[Neural ODEs for NEB](https://github.com/Dieg0Alejandr0/Bombarelli-Lab-Summer-2020)**  
-A project I led during my time in the Bombarelli Lab. I implemented the Nudged Elast Band method for finding minimum-energy paths, both done traditionally and through differentiable ODE solvers.
+A project I led during my time in the Bombarelli Lab. I implemented the Nudged Elastic Band method for finding minimum-energy paths through traditional methods via Python and formulated a new implementation through differentiable ODE solvers.
 
 ---
 
