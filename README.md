@@ -36,7 +36,7 @@ A project from the Jaakkola lab I added some functionalities to. I trained PyTor
 **[GAN Scene Understanding](https://github.com/Dieg0Alejandr0/Torralba-Lab-2020-2021)**  
 A project I led when in the Torralba lab. Where I probed StyleGAN/ProgressiveGAN latent spaces and generated paired 2D/3D datasets for scene-understanding research.
 
-**[Flapping Plate Optimization](https://github.com/Dieg0Alejandr0/Van-Rees-Lab-Fall-2019)**
+**[Flapping Plate Optimization](https://github.com/Dieg0Alejandr0/Van-Rees-Lab-Fall-2019)**  
 A project I contributed to in the Van Rees lab. The repo contains an implementation of Euler coordinates and Lagrangian coordinates for the deformation of a flexible plate for MRAG-I2D.
 
 **[Neural ODEs for NEB](https://github.com/Dieg0Alejandr0/Bombarelli-Lab-Summer-2020)**  
